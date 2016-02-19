@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="app_name">BlueRGB</string>
+    <string name="action_settings">Settings</string>
+    <color name="red">#DA291C</color>
+    <color name="blue">#000080</color>
+    <color name="green">#76EE00</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#EEEE00</color>
+    <color name="aqua">#B2DFEE</color>
+    <color name="White">#FFFFFF</color>
+    <string name="text">Light intensity</string>
+    <string name="prev_lay">More Color</string>
+    <string name="more_effects">Effects</string>
+    <string name="title_activity_color">Color</string>
+    <string name="title_activity_effects">Effects</string>
+    <color name="orangeStrong">#FF6600</color>
+    <color name="g2">#66FFCC</color>
+    <color name="b2">#0066FF</color>
+    <color name="p">#FF99CC</color>
+    <color name="r3">#e06100</color>
+    <color name="g3">#03baaa</color>
+    <color name="b3">#420784</color>
+    <color name="w3">#fcd1ef</color>
+    <color name="r4">#fca12a</color>
+    <color name="g4">#099999</color>
+    <color name="b4">#65136b</color>
+    <color name="w4">#5ab5b0</color>
+    <color name="r5">#fbff3a</color>
+    <color name="g5">#046f96</color>
+    <color name="b5">#e251b7</color>
+    <color name="w5">#06e2db</color>
+    <string name="bck">back</string>
+</resources>
